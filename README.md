@@ -1,4 +1,9 @@
 ### Hi there 👋
+- 🔭 I’m currently studyng at SENAI
+- 🌱 I’m currently learning **HTML / CSS / JS / JSON / PYTHON**
+- 😄 Pronouns: **He/Him**
+- 📫 Email: **arthur48.santos@hotmail.com**
+- 👨 I'm 16 years old
 
 <!--
 **ArthurR17/ArthurR17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,6 +16,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
